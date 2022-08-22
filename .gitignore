@@ -25,3 +25,7 @@ dist-ssr
 
 #API KEY
 .env
+
+# DEPENDENCY
+package-lock.json
+package.json
